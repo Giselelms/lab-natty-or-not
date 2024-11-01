@@ -20,23 +20,22 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Estratégia de Vendas de Automação para Clínica de Estética ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto visa criar uma apresentação bonita e persuasiva com objetivo de vender robôs de automação criados com IA e programas no/low code
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+GammaApp
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fiz um prompt no ChatGPT explicando em detalhes a idéia e objetivo, público alvo e tom da apresentação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
+(https://gamma.app/docs/Automacao-de-Estetica-Impulsionando-o-Sucesso-de-Sua-Clinica-f1tkvjxd0djq3dx)
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Sou uma entusiasta em IA e descobrir a evolução e o quanto ela pode nos ajudar, que vão muito além do que eu imaginava, abriu minha mente para novas oportunidades e ideias revolucionárias e enriquecedoras.
 
 ### Exemplos e Insigths
 
